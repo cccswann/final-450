@@ -1,5 +1,9 @@
 # A List of 450 Data Structures & Algorithms Problems 
 
+> Questions compiled by Love Babbar: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 
+> 
+> Reformatted and implemented by me :)
+
 <details>
   <summary><strong>Arrays</strong></summary>
   

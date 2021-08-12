@@ -18,3 +18,11 @@ def reverseWord(s):
     # Revert list back to string 
     str1 = ''.join(list1) 
     return str1
+
+# Another approach using Python list slicing
+
+def reverseString(s):
+    list1 = list(s)
+    new = list1[::-1]
+    str1 = ''.join(new)
+    return str1

@@ -1,6 +1,6 @@
 # A List of 450 Data Structures & Algorithms Problems 
 
-> Questions compiled by Love Babbar: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 
+> The problem list I am working off of was made by Love Babbar: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 
 > 
 > Reformatted and implemented by me :)
 > 

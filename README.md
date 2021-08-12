@@ -154,7 +154,7 @@
   <summary><strong>LinkedList</strong></summary>
   
   - Write a Program to reverse the Linked List. (Both Iterative and recursive)
-  - Reverse a Linked List in group of Given Size. [Very Imp]
+  - <strong>Reverse a Linked List in group of Given Size. [Very Imp]</strong>
   - Write a program to Detect loop in a linked list.
   - Write a program to Delete loop in a linked list.
   - Find the starting point of the loop. 
@@ -165,8 +165,8 @@
   - Add two numbers represented by linked lists.
   - Intersection of two Sorted Linked List.
   - Intersection Point of two Linked Lists.
-  - Merge Sort For Linked lists.[Very Important]
-  - Quicksort for Linked Lists.[Very Important]
+  - <strong>Merge Sort For Linked lists.[Very Important]</strong>
+  - <strong>Quicksort for Linked Lists.[Very Important]</strong>
   - Find the middle Element of a linked list.
   - Check if a linked list is a circular linked list.
   - Split a Circular linked list into two halves.
@@ -175,9 +175,9 @@
   - Reverse a Doubly Linked list.
   - Find pairs with a given sum in a DLL.
   - Count triplets in a sorted DLL whose sum is equal to given value “X”.
-  - Sort a “k”sorted Doubly Linked list.[Very IMP]
+  - <strong>Sort a “k”sorted Doubly Linked list.[Very IMP]</strong>
   - Rotate DoublyLinked list by N nodes.
-  - Rotate a Doubly Linked list in group of Given Size.[Very IMP]
+  - <strong>Rotate a Doubly Linked list in group of Given Size.[Very IMP]</strong>
   - Can we reverse a linked list in less than O(n) ?
   - Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
   - Flatten a Linked List
@@ -218,17 +218,17 @@
   - Find minimum swaps required to convert a Binary tree into BST
   - Check if Binary tree is Sum tree or not
   - Check if all leaf nodes are at same level or not
-  - Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]
+  - <strong>Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]</strong>
   - Check if 2 trees are mirror or not
   - Sum of Nodes on the Longest path from root to leaf node 
-  - Check if given graph is tree or not.  [ IMP ]
+  - <strong>Check if given graph is tree or not.  [ IMP ]</strong>
   - Find Largest subtree sum in a tree
   - Maximum Sum of nodes in Binary tree such that no two are adjacent 
   - Print all "K" Sum paths in a Binary tree
   - Find LCA in a Binary tree
   - Find distance between 2 nodes in a Binary tree
   - Kth Ancestor of node in a Binary tree
-  - Find all Duplicate subtrees in a Binary tree [ IMP ]
+  - <strong>Find all Duplicate subtrees in a Binary tree [ IMP ]</strong>
   - Tree Isomorphism Problem
 
 </details>
@@ -246,7 +246,7 @@
   - Construct BST from preorder traversal
   - Convert Binary tree into BST
   - Convert a normal BST into a Balanced BST
-  - Merge two BST [ V.V.V>IMP ]
+  - <strong>Merge two BST [ V.V.V>IMP ]</strong>
   - Find Kth largest element in a BST
   - Find Kth smallest element in a BST
   - Count pairs from 2 BST whose sum is equal to given value "X"
@@ -256,7 +256,7 @@
   - Given "n" appointments, find the conflicting appointments
   - Check preorder is valid or not
   - Check whether BST contains Dead end
-  - Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
+  - <strong>Largest BST in a Binary Tree [ V.V.V.V.V IMP ]</strong>
   - Flatten BST to sorted list
 
 </details>
@@ -379,11 +379,11 @@
   - Maximum of all subarrays of size k.
   - “k” largest element in an array
   - Kth smallest and largest element in an unsorted array
-  - Merge “K” sorted arrays. [ IMP ]
+  - <strong>Merge “K” sorted arrays. [ IMP ]</strong>
   - Merge 2 Binary Max Heaps
   - Kth largest sum continuous subarrays
   - Leetcode- reorganize strings
-  - Merge “K” Sorted Linked Lists [V.IMP]
+  - <strong>Merge “K” Sorted Linked Lists [V.IMP]</strong>
   - Smallest range in “K” Lists
   - Median in a stream of Integers
   - Check if a Binary Tree is Heap
@@ -494,7 +494,7 @@
   - Longest Common Substring
   - Count number of ways to reacha given score in a game
   - Count Balanced Binary Trees of Height 
-  - LargestSum Contiguous Subarray [V>V>V>V IMP ]
+  - <strong>LargestSum Contiguous Subarray [V>V>V>V IMP ]</strong>
   - Smallest sum contiguous subarray
   - Unbounded Knapsack (Repetition of items allowed)
   - Word Break Problem
@@ -506,16 +506,16 @@
   - Longest alternating subsequence
   - Weighted Job Scheduling
   - Coin game winner where every player has three choices
-  - Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
-  - Maximum profit by buying and selling a share at most twice [ IMP ]
+  - <strong>Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]</strong>
+  - <strong>Maximum profit by buying and selling a share at most twice [ IMP ]</strong>
   - Optimal Strategy for a Game
   - Optimal Binary Search Tree
   - Palindrome PartitioningProblem
   - Word Wrap Problem
-  - Mobile Numeric Keypad Problem [ IMP ]
+  - <strong>Mobile Numeric Keypad Problem [ IMP ]</strong>
   - Boolean Parenthesization Problem
   - Largest rectangular sub-matrix whose sum is 0
-  - Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
+  - <strong>Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]</strong>
   - Maximum sum rectangle in a 2D matrix
   - Maximum profit by buying and selling a share at most k times
   - Find if a string is interleaved of two other strings

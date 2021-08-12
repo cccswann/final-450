@@ -264,110 +264,110 @@
 <details>
   <summary><strong>Greedy</strong></summary>
 
-    - Activity Selection Problem
-    - Job SequencingProblem
-    - Huffman Coding
-    - Water Connection Problem
-    - Fractional Knapsack Problem
-    - Greedy Algorithm to find Minimum number of Coins
-    - Maximum trains for which stoppage can be provided
-    - Minimum Platforms Problem
-    - Buy Maximum Stocks if i stocks can be bought on i-th day
-    - Find the minimum and maximum amount to buy all N candies
-    - Minimize Cash Flow among a given set of friends who have borrowed money from each other
-    - Minimum Cost to cut a board into squares
-    - Check if it is possible to survive on Island
-    - Find maximum meetings in one room
-    - Maximum product subset of an array
-    - Maximize array sum after K negations
-    - Maximize the sum of arr[i]*i
-    - Maximum sum of absolute difference of an array
-    - Maximize sum of consecutive differences in a circular array
-    - Minimum sum of absolute difference of pairs of two arrays
-    - Program for Shortest Job First (or SJF) CPU Scheduling
-    - Program for Least Recently Used (LRU) Page Replacement algorithm
-    - Smallest subset with sum greater than all other elements
-    - Chocolate Distribution Problem
-    - DEFKIN -Defense of a Kingdom
-    - DIEHARD -DIE HARD
-    - GERGOVIA -Wine trading in Gergovia
-    - Picking Up Chicks
-    - CHOCOLA –Chocolate
-    - ARRANGE -Arranging Amplifiers
-    - K Centers Problem
-    - Minimum Cost of ropes
-    - Find smallest number with given number of digits and sum of digits
-    - Rearrange characters in a string such that no two adjacent are same
-    - Find maximum sum possible equal sum of three stacks
+  - Activity Selection Problem
+  - Job SequencingProblem
+  - Huffman Coding
+  - Water Connection Problem
+  - Fractional Knapsack Problem
+  - Greedy Algorithm to find Minimum number of Coins
+  - Maximum trains for which stoppage can be provided
+  - Minimum Platforms Problem
+  - Buy Maximum Stocks if i stocks can be bought on i-th day
+  - Find the minimum and maximum amount to buy all N candies
+  - Minimize Cash Flow among a given set of friends who have borrowed money from each other
+  - Minimum Cost to cut a board into squares
+  - Check if it is possible to survive on Island
+  - Find maximum meetings in one room
+  - Maximum product subset of an array
+  - Maximize array sum after K negations
+  - Maximize the sum of arr[i]*i
+  - Maximum sum of absolute difference of an array
+  - Maximize sum of consecutive differences in a circular array
+  - Minimum sum of absolute difference of pairs of two arrays
+  - Program for Shortest Job First (or SJF) CPU Scheduling
+  - Program for Least Recently Used (LRU) Page Replacement algorithm
+  - Smallest subset with sum greater than all other elements
+  - Chocolate Distribution Problem
+  - DEFKIN -Defense of a Kingdom
+  - DIEHARD -DIE HARD
+  - GERGOVIA -Wine trading in Gergovia
+  - Picking Up Chicks
+  - CHOCOLA –Chocolate
+  - ARRANGE -Arranging Amplifiers
+  - K Centers Problem
+  - Minimum Cost of ropes
+  - Find smallest number with given number of digits and sum of digits
+  - Rearrange characters in a string such that no two adjacent are same
+  - Find maximum sum possible equal sum of three stacks  
 
 </details>
 
 <details>
   <summary><strong>Backtracking</strong></summary>
 
-    - Rat in a maze Problem
-    - Printing all solutions in N-Queen Problem
-    - Word Break Problem using Backtracking
-    - Remove Invalid Parentheses
-    - Sudoku Solver
-    - m Coloring Problem
-    - Print all palindromic partitions of a string
-    - Subset Sum Problem
-    - The Knight’s tour problem
-    - Tug of War
-    - Find shortest safe route in a path with landmines
-    - Combinational Sum
-    - Find Maximum number possible by doing at-most K swaps
-    - Print all permutations of a string 
-    - Find if there is a path of more than k length from a source
-    - Longest Possible Route in a Matrix with Hurdles
-    - Print all possible paths from top left to bottom right of a mXn matrix
-    - Partition of a set intoK subsets with equal sum
-    - Find the K-th Permutation Sequence of first N natural numbers
+  - Rat in a maze Problem
+  - Printing all solutions in N-Queen Problem
+  - Word Break Problem using Backtracking
+  - Remove Invalid Parentheses
+  - Sudoku Solver
+  - m Coloring Problem
+  - Print all palindromic partitions of a string
+  - Subset Sum Problem
+  - The Knight’s tour problem
+  - Tug of War
+  - Find shortest safe route in a path with landmines
+  - Combinational Sum
+  - Find Maximum number possible by doing at-most K swaps
+  - Print all permutations of a string 
+  - Find if there is a path of more than k length from a source
+  - Longest Possible Route in a Matrix with Hurdles
+  - Print all possible paths from top left to bottom right of a mXn matrix
+  - Partition of a set intoK subsets with equal sum
+  - Find the K-th Permutation Sequence of first N natural numbers
 
 </details>
 
 <details>
   <summary><strong>Stacks & Queues</strong></summary>
 
-    - Implement Stack from Scratch
-    - Implement Queue from Scratch
-    - Implement 2 stack in an array
-    - find the middle element of a stack
-    - Implement "N" stacks in an Array
-    - Check the expression has valid or Balanced parenthesis or not.
-    - Reverse a String using Stack
-    - Design a Stack that supports getMin() in O(1) time and O(1) extra space.
-    - Find the next Greater element
-    - The celebrity Problem
-    - Arithmetic Expression evaluation
-    - Evaluation of Postfix expression
-    - Implement a method to insert an element at its bottom without using any other data structure.
-    - Reverse a stack using recursion
-    - Sort a Stack using recursion
-    - Merge Overlapping Intervals
-    - Largest rectangular Area in Histogram
-    - Length of the Longest Valid Substring
-    - Expression contains redundant bracket or not
-    - Implement Stack using Queue
-    - Implement Stack using Deque
-    - Stack Permutations (Check if an array is stack permutation of other)
-    - Implement Queue using Stack  
-    - Implement "n" queue in an array
-    - Implement a Circular queue
-    - LRU Cache Implementationa
-    - Reverse a Queue using recursion
-    - Reverse the first “K” elements of a queue
-    - Interleave the first half of the queue with second half
-    - Find the first circular tour that visits all Petrol Pumps
-    - Minimum time required to rot all oranges
-    - Distance of nearest cell having 1 in a binary matrix
-    - First negative integer in every window of size “k”
-    - Check if all levels of two trees are anagrams or not.
-    - Sum of minimum and maximum elements of all subarrays of size “k”.
-    - Minimum sum of squares of character counts in a given string after removing “k” characters.
-    - Queue based approach or first non-repeating character in a stream.
-    - Next Smaller Element
+  - Implement Stack from Scratch
+  - Implement Queue from Scratch
+  - Implement 2 stack in an array
+  - find the middle element of a stack
+  - Implement "N" stacks in an Array
+  - Check the expression has valid or Balanced parenthesis or not.
+  - Reverse a String using Stack
+  - Design a Stack that supports getMin() in O(1) time and O(1) extra space.
+  - Find the next Greater element
+  - The celebrity Problem
+  - Arithmetic Expression evaluation
+  - Evaluation of Postfix expression
+  - Implement a method to insert an element at its bottom without using any other data structure.
+  - Reverse a stack using recursion
+  - Sort a Stack using recursion
+  - Merge Overlapping Intervals
+  - Largest rectangular Area in Histogram
+  - Length of the Longest Valid Substring
+  - Expression contains redundant bracket or not
+  - Implement Stack using Queue
+  - Implement Stack using Deque
+  - Stack Permutations (Check if an array is stack permutation of other)
+  - Implement Queue using Stack  
+  - Implement "n" queue in an array
+  - Implement a Circular queue
+  - LRU Cache Implementationa
+  - Reverse a Queue using recursion
+  - Reverse the first “K” elements of a queue
+  - Interleave the first half of the queue with second half
+  - Find the first circular tour that visits all Petrol Pumps
+  - Minimum time required to rot all oranges
+  - Distance of nearest cell having 1 in a binary matrix
+  - First negative integer in every window of size “k”
+  - Check if all levels of two trees are anagrams or not.
+  - Sum of minimum and maximum elements of all subarrays of size “k”.
+  - Minimum sum of squares of character counts in a given string after removing “k” characters.
+  - Queue based approach or first non-repeating character in a stream.
+  - Next Smaller Element
 
 </details>
 

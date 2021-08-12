@@ -236,28 +236,28 @@
 <details>
   <summary><strong>Binary Search Trees</strong></summary>
 
-    - Find a value in a BST
-    - Deletion of a node in a BST
-    - Find min and max value in a BST
-    - Find inorder successor and inorder predecessor in a BST
-    - Check if a tree is a BST or not 
-    - Populate Inorder successor of all nodes
-    - Find LCA  of 2 nodes in a BST
-    - Construct BST from preorder traversal
-    - Convert Binary tree into BST
-    - Convert a normal BST into a Balanced BST
-    - Merge two BST [ V.V.V>IMP ]
-    - Find Kth largest element in a BST
-    - Find Kth smallest element in a BST
-    - Count pairs from 2 BST whose sum is equal to given value "X"
-    - Find the median of BST in O(n) time and O(1) space
-    - Count BST ndoes that lie in a given range
-    - Replace every element with the least greater element on its right
-    - Given "n" appointments, find the conflicting appointments
-    - Check preorder is valid or not
-    - Check whether BST contains Dead end
-    - Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
-    - Flatten BST to sorted list
+  - Find a value in a BST
+  - Deletion of a node in a BST
+  - Find min and max value in a BST
+  - Find inorder successor and inorder predecessor in a BST
+  - Check if a tree is a BST or not
+  - Populate Inorder successor of all nodes
+  - Find LCA  of 2 nodes in a BST
+  - Construct BST from preorder traversal
+  - Convert Binary tree into BST
+  - Convert a normal BST into a Balanced BST
+  - Merge two BST [ V.V.V>IMP ]
+  - Find Kth largest element in a BST
+  - Find Kth smallest element in a BST
+  - Count pairs from 2 BST whose sum is equal to given value "X"
+  - Find the median of BST in O(n) time and O(1) space
+  - Count BST ndoes that lie in a given range
+  - Replace every element with the least greater element on its right
+  - Given "n" appointments, find the conflicting appointments
+  - Check preorder is valid or not
+  - Check whether BST contains Dead end
+  - Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
+  - Flatten BST to sorted list
 
 </details>
 
@@ -374,167 +374,167 @@
 <details>
     <summary><strong>Heap</strong></summary>
 
-    - Implement a Maxheap/MinHeap using arrays and recursion.
-    - Sort an Array using heap. (HeapSort)
-    - Maximum of all subarrays of size k.
-    - “k” largest element in an array
-    - Kth smallest and largest element in an unsorted array
-    - Merge “K” sorted arrays. [ IMP ]
-    - Merge 2 Binary Max Heaps
-    - Kth largest sum continuous subarrays
-    - Leetcode- reorganize strings
-    - Merge “K” Sorted Linked Lists [V.IMP]
-    - Smallest range in “K” Lists
-    - Median in a stream of Integers
-    - Check if a Binary Tree is Heap
-    - Connect “n” ropes with minimum cost
-    - Convert BST to Min Heap
-    - Convert min heap to max heap
-    - Rearrange characters in a string such that no two adjacent are same.
-    - Minimum sum of two numbers formed from digits of an array
+  - Implement a Maxheap/MinHeap using arrays and recursion.
+  - Sort an Array using heap. (HeapSort)
+  - Maximum of all subarrays of size k.
+  - “k” largest element in an array
+  - Kth smallest and largest element in an unsorted array
+  - Merge “K” sorted arrays. [ IMP ]
+  - Merge 2 Binary Max Heaps
+  - Kth largest sum continuous subarrays
+  - Leetcode- reorganize strings
+  - Merge “K” Sorted Linked Lists [V.IMP]
+  - Smallest range in “K” Lists
+  - Median in a stream of Integers
+  - Check if a Binary Tree is Heap
+  - Connect “n” ropes with minimum cost
+  - Convert BST to Min Heap
+  - Convert min heap to max heap
+  - Rearrange characters in a string such that no two adjacent are same.
+  - Minimum sum of two numbers formed from digits of an array
 
 </details>
 
 <details>
     <summary><strong>Graph</strong></summary>
 
-    - Create a Graph, print it
-    - Implement BFS algorithm 
-    - Implement DFS Algo 
-    - Detect Cycle in Directed Graph using BFS/DFS Algo 
-    - Detect Cycle in UnDirected Graph using BFS/DFS Algo 
-    - Search in a Maze
-    - Minimum Step by Knight
-    - flood fill algo
-    - Clone a graph
-    - Making wired Connections
-    - word Ladder 
-    - Dijkstra algo
-    - Implement Topological Sort 
-    - Minimum time taken by each job to be completed given by a Directed Acyclic Graph
-    - Find whether it is possible to finish all tasks or not from given dependencies
-    - Find the no. of Isalnds
-    - Given a sorted Dictionary of an Alien Language, find order of characters
-    - Implement Kruksal’sAlgorithm
-    - Implement Prim’s Algorithm
-    - Total no. of Spanning tree in a graph
-    - Implement Bellman Ford Algorithm
-    - Implement Floyd warshallAlgorithm
-    - Travelling Salesman Problem
-    - Graph ColouringProblem
-    - Snake and Ladders Problem
-    - Find bridge in a graph
-    - Count Strongly connected Components(Kosaraju Algo)
-    - Check whether a graph is Bipartite or Not
-    - Detect Negative cycle in a graph
-    - Longest path in a Directed Acyclic Graph
-    - Journey to the Moon
-    - Cheapest Flights Within K Stops
-    - Oliver and the Game
-    - Water Jug problem using BFS
-    - Water Jug problem using BFS
-    - Find if there is a path of more thank length from a source
-    - M-ColouringProblem
-    - Minimum edges to reverse o make path from source to destination
-    - Paths to travel each nodes using each edge(Seven Bridges)
-    - Vertex Cover Problem
-    - Chinese Postman or Route Inspection
-    - Number of Triangles in a Directed and Undirected Graph
-    - Minimise the cashflow among a given set of friends who have borrowed money from each other
-    - Two Clique Problem
+  - Create a Graph, print it
+  - Implement BFS algorithm 
+  - Implement DFS Algo 
+  - Detect Cycle in Directed Graph using BFS/DFS Algo 
+  - Detect Cycle in UnDirected Graph using BFS/DFS Algo 
+  - Search in a Maze
+  - Minimum Step by Knight
+  - flood fill algo
+  - Clone a graph
+  - Making wired Connections    
+  - word Ladder 
+  - Dijkstra algo
+  - Implement Topological Sort 
+  - Minimum time taken by each job to be completed given by a Directed Acyclic Graph
+  - Find whether it is possible to finish all tasks or not from given dependencies
+  - Find the no. of Isalnds
+  - Given a sorted Dictionary of an Alien Language, find order of characters
+  - Implement Kruksal’sAlgorithm
+  - Implement Prim’s Algorithm
+  - Total no. of Spanning tree in a graph
+  - Implement Bellman Ford Algorithm
+  - Implement Floyd warshallAlgorithm
+  - Travelling Salesman Problem
+  - Graph ColouringProblem
+  - Snake and Ladders Problem
+  - Find bridge in a graph
+  - Count Strongly connected Components(Kosaraju Algo)
+  - Check whether a graph is Bipartite or Not
+  - Detect Negative cycle in a graph
+  - Longest path in a Directed Acyclic Graph
+  - Journey to the Moon
+  - Cheapest Flights Within K Stops
+  - Oliver and the Game
+  - Water Jug problem using BFS
+  - Water Jug problem using BFS
+  - Find if there is a path of more thank length from a source
+  - M-ColouringProblem
+  - Minimum edges to reverse o make path from source to destination
+  - Paths to travel each nodes using each edge(Seven Bridges)
+  - Vertex Cover Problem
+  - Chinese Postman or Route Inspection
+  - Number of Triangles in a Directed and Undirected Graph
+  - Minimise the cashflow among a given set of friends who have borrowed money from each other
+  - Two Clique Problem
 
 </details>
 
 <details>
     <summary><strong>Trie</strong></summary>
 
-    - Construct a trie from scratch
-    - Find shortest unique prefix for every word in a given list
-    - Word Break Problem | (Trie solution)
-    - Given a sequence of words, print all anagrams together
-    - Implement a Phone Directory
-    - Print unique rows in a given boolean matrix
+  - Construct a trie from scratch
+  - Find shortest unique prefix for every word in a given list
+  - Word Break Problem | (Trie solution)
+  - Given a sequence of words, print all anagrams together
+  - Implement a Phone Directory
+  - Print unique rows in a given boolean matrix
 
 </details>
 
 <details>
     <summary><strong>Dynamic Programming</strong></summary>
     
-    - Coin ChangeProblem
-    - Knapsack Problem
-    - Binomial CoefficientProblem
-    - Permutation CoefficientProblem
-    - Program for nth Catalan Number
-    - Matrix Chain Multiplication 
-    - Edit Distance
-    - Subset Sum Problem
-    - Friends Pairing Problem
-    - Gold Mine Problem
-    - Assembly Line SchedulingProblem
-    - Painting the Fenceproblem
-    - Maximize The Cut Segments
-    - Longest Common Subsequence
-    - Longest Repeated Subsequence
-    - Longest Increasing Subsequence
-    - Space Optimized Solution of LCS
-    - LCS (Longest Common Subsequence) of three strings
-    - Maximum Sum Increasing Subsequence
-    - Count all subsequences having product less than K
-    - Longest subsequence such that difference between adjacent is one
-    - Maximum subsequence sum such that no three are consecutive
-    - Egg Dropping Problem
-    - Maximum Length Chain of Pairs
-    - Maximum size square sub-matrix with all 1s
-    - Maximum sum of pairs with specific difference
-    - Min Cost PathProblem
-    - Maximum difference of zeros and ones in binary string
-    - Minimum number of jumps to reach end
-    - Minimum cost to fill given weight in a bag
-    - Minimum removals from array to make max –min <= K
-    - Longest Common Substring
-    - Count number of ways to reacha given score in a game
-    - Count Balanced Binary Trees of Height h
-    - LargestSum Contiguous Subarray [V>V>V>V IMP ]
-    - Smallest sum contiguous subarray
-    - Unbounded Knapsack (Repetition of items allowed)
-    - Word Break Problem
-    - Largest Independent Set Problem
-    - Partition problem
-    - Longest Palindromic Subsequence
-    - Count All Palindromic Subsequence in a given String
-    - Longest Palindromic Substring
-    - Longest alternating subsequence
-    - Weighted Job Scheduling
-    - Coin game winner where every player has three choices
-    - Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
-    - Maximum profit by buying and selling a share at most twice [ IMP ]
-    - Optimal Strategy for a Game
-    - Optimal Binary Search Tree
-    - Palindrome PartitioningProblem
-    - Word Wrap Problem
-    - Mobile Numeric Keypad Problem [ IMP ]
-    - Boolean Parenthesization Problem
-    - Largest rectangular sub-matrix whose sum is 0
-    - Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
-    - Maximum sum rectangle in a 2D matrix
-    - Maximum profit by buying and selling a share at most k times
-    - Find if a string is interleaved of two other strings
-    - Maximum Length of Pair Chain
+  - Coin ChangeProblem
+  - Knapsack Problem
+  - Binomial CoefficientProblem
+  - Permutation CoefficientProblem
+  - Program for nth Catalan Number
+  - Matrix Chain Multiplication
+  - Edit Distance
+  - Subset Sum Problem
+  - Friends Pairing Problem
+  - Gold Mine Problem
+  - Assembly Line SchedulingProblem
+  - Painting the Fenceproblem
+  - Maximize The Cut Segments
+  - Longest Common Subsequence
+  - Longest Repeated Subsequence
+  - Longest Increasing Subsequence
+  - Space Optimized Solution of LCS
+  - LCS (Longest Common Subsequence) of three strings
+  - Maximum Sum Increasing Subsequence
+  - Count all subsequences having product less than K
+  - Longest subsequence such that difference between adjacent is one
+  - Maximum subsequence sum such that no three are consecutive
+  - Egg Dropping Problem
+  - Maximum Length Chain of Pairs
+  - Maximum size square sub-matrix with all 1s
+  - Maximum sum of pairs with specific difference
+  - Min Cost PathProblem
+  - Maximum difference of zeros and ones in binary string
+  - Minimum number of jumps to reach end
+  - Minimum cost to fill given weight in a bag
+  - Minimum removals from array to make max –min <= K
+  - Longest Common Substring
+  - Count number of ways to reacha given score in a game
+  - Count Balanced Binary Trees of Height 
+  - LargestSum Contiguous Subarray [V>V>V>V IMP ]
+  - Smallest sum contiguous subarray
+  - Unbounded Knapsack (Repetition of items allowed)
+  - Word Break Problem
+  - Largest Independent Set Problem
+  - Partition problem
+  - Longest Palindromic Subsequence
+  - Count All Palindromic Subsequence in a given String
+  - Longest Palindromic Substring
+  - Longest alternating subsequence
+  - Weighted Job Scheduling
+  - Coin game winner where every player has three choices
+  - Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
+  - Maximum profit by buying and selling a share at most twice [ IMP ]
+  - Optimal Strategy for a Game
+  - Optimal Binary Search Tree
+  - Palindrome PartitioningProblem
+  - Word Wrap Problem
+  - Mobile Numeric Keypad Problem [ IMP ]
+  - Boolean Parenthesization Problem
+  - Largest rectangular sub-matrix whose sum is 0
+  - Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
+  - Maximum sum rectangle in a 2D matrix
+  - Maximum profit by buying and selling a share at most k times
+  - Find if a string is interleaved of two other strings
+  - Maximum Length of Pair Chain
 
 </details>
 
 <details>
     <summary><strong>Bit Manipulation</strong></summary>
     
-    - Count set bits in an integer
-    - Find the two non-repeating elements in an array of repeating elements
-    - Count number of bits to be flipped to convert A to B
-    - Count total set bits in all numbers from 1 to n
-    - Program to find whether a no is power of two
-    - Find position of the only set bit
-    - Copy set bits in a range
-    - Divide two integers without using multiplication, division and mod operator
-    - Calculate square of a number without using *, / and pow()
-    - Power Set
+  - Count set bits in an integer
+  - Find the two non-repeating elements in an array of repeating elements
+  - Count number of bits to be flipped to convert A to B
+  - Count total set bits in all numbers from 1 to n
+  - Program to find whether a no is power of two
+  - Find position of the only set bit
+  - Copy set bits in a range
+  - Divide two integers without using multiplication, division and mod operator
+  - Calculate square of a number without using *, / and pow()
+  - Power Set
 
 </details>

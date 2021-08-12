@@ -3,13 +3,17 @@
 > Questions compiled by Love Babbar: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 
 > 
 > Reformatted and implemented by me :)
+> 
+> ✅ - Link to my implementation
+> 
+> 🔗 - Link to the problem in Geeks for Geeks or Leetcode
 
 <details>
   <summary><strong>Arrays</strong></summary>
   
   ### Array Problems
   
-  - Reverse the array - ✅ [Link to Problem](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+  - Reverse the array - [🔗 Problem](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
   - Find the maximum and minimum element in an array
   - Find the "Kth" max and min element of an array
   - Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
@@ -72,7 +76,7 @@
   
   ### String Problems
   
-  - Reverse a String - ✅ [My Implementation](reverse-string.py)
+  - Reverse a String - [✅ Implementation](reverse-string.py)
   - Check whether a String is Palindrome or not
   - Find Duplicate characters in a string
   - Why strings are immutable in Java?

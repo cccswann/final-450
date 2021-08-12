@@ -72,11 +72,11 @@
 
 
 <details>
-  <summary><strong>String</strong></summary>
+  <summary><strong>Strings</strong></summary>
   
   ### String Problems - Count: 43
   
-  - [x] Reverse a String - [✅ Implementation](reverse-string.py)
+  - [x] Reverse a String - [✅ Implementation](strings/reverse-string.py)
   - [ ] Check whether a String is Palindrome or not
   - [ ] Find Duplicate characters in a string
   - [ ] Why strings are immutable in Java?

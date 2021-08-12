@@ -4,9 +4,8 @@
 > 
 > Reformatted and implemented by me :)
 > 
-> ✅ - Link to my implementation
-> 
-> 🔗 - Link to the problem in Geeks for Geeks or Leetcode (Open Link in New Tab)
+ ✅ - Link to my implementation \
+ 🔗 - Link to the problem in Geeks for Geeks or Leetcode (Open Link in New Tab)
 
 <details>
   <summary><strong>Arrays</strong></summary>

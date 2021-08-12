@@ -1,4 +1,4 @@
-# A List of 450 Data Structures & Algorithms Problems 
+# A List of 448 Data Structures & Algorithms Problems 
 
 > The problem list I am working off of was made by Love Babbar: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 
 > 
@@ -11,7 +11,7 @@
 <details>
   <summary><strong>Arrays</strong></summary>
   
-  ### Array Problems
+  ### Array Problems - Count: 36
   
   - [x] Reverse the array - [🔗 Problem](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
   - [ ] Find the maximum and minimum element in an array
@@ -55,7 +55,7 @@
 <details>
   <summary><strong>Matrix</strong></summary>
   
-  ### Matrix Problems
+  ### Matrix Problems - Count: 10
   
   - [ ] Spiral traversal on a Matrix
   - [ ] Search an element in a matriix
@@ -74,7 +74,7 @@
 <details>
   <summary><strong>String</strong></summary>
   
-  ### String Problems
+  ### String Problems - Count: 43
   
   - [x] Reverse a String - [✅ Implementation](reverse-string.py)
   - [ ] Check whether a String is Palindrome or not
@@ -125,7 +125,7 @@
 <details>
   <summary><strong>Sorting & Searching Algorithm</strong></summary>
   
-  ### Sorting & Searching Algorithm Problems
+  ### Sorting & Searching Algorithm Problems - Count: 36
   
   - [ ] Find first and last positions of an element in a sorted array
   - [ ] Find a Fixed Point (Value equal to index) in a given array
@@ -169,7 +169,7 @@
 <details>
   <summary><strong>LinkedList</strong></summary>
   
-  ### LinkedList Problems
+  ### LinkedList Problems - Count: 36
   
   - [ ] Write a Program to reverse the Linked List. (Both Iterative and recursive)
   - [ ] <strong>Reverse a Linked List in group of Given Size. [Very Imp]</strong>
@@ -213,7 +213,7 @@
 <details>
   <summary><strong>Binary Trees</strong></summary>
   
-  ### Binary Tree Problems
+  ### Binary Tree Problems: Count: 35
 
   - [ ] Level order traversal
   - [ ] Reverse Level Order traversal
@@ -256,7 +256,7 @@
 <details>
   <summary><strong>Binary Search Trees</strong></summary>
   
-  ### Binary Search Tree Problems
+  ### Binary Search Tree Problems - Count: 22
 
   - [ ] Find a value in a BST
   - [ ] Deletion of a node in a BST
@@ -286,7 +286,7 @@
 <details>
   <summary><strong>Greedy</strong></summary>
   
-  ### Greedy Problems
+  ### Greedy Problems: Count: 35
 
   - [ ] Activity Selection Problem
   - [ ] Job SequencingProblem
@@ -329,7 +329,7 @@
 <details>
   <summary><strong>Backtracking</strong></summary>
   
-  ### Backtracking Problems
+  ### Backtracking Problems - Count: 19
 
   - [ ] Rat in a maze Problem
   - [ ] Printing all solutions in N-Queen Problem
@@ -356,7 +356,7 @@
 <details>
   <summary><strong>Stacks & Queues</strong></summary>
   
-  ### Stacks & Queues
+  ### Stacks & Queues - Count: 38
 
   - [ ] Implement Stack from Scratch
   - [ ] Implement Queue from Scratch
@@ -402,7 +402,7 @@
 <details>
     <summary><strong>Heap</strong></summary>
   
-  ### Heap Problems
+  ### Heap Problems - Count: 18
 
   - [ ] Implement a Maxheap/MinHeap using arrays and recursion.
   - [ ] Sort an Array using heap. (HeapSort)
@@ -428,7 +428,7 @@
 <details>
     <summary><strong>Graph</strong></summary>
   
-  ### Graph Problems
+  ### Graph Problems - Count: 44
 
   - [ ] Create a Graph, print it
   - [ ] Implement BFS algorithm 
@@ -480,7 +480,7 @@
 <details>
     <summary><strong>Trie</strong></summary>
   
-  ### Trie Problems
+  ### Trie Problems - Count: 6
 
   - [ ] Construct a trie from scratch
   - [ ] Find shortest unique prefix for every word in a given list
@@ -494,7 +494,7 @@
 <details>
     <summary><strong>Dynamic Programming</strong></summary>
   
-  ### Dynamic Programming Problems
+  ### Dynamic Programming Problems - Count: 60
     
   - [ ] Coin ChangeProblem
   - [ ] Knapsack Problem
@@ -562,7 +562,7 @@
 <details>
     <summary><strong>Bit Manipulation</strong></summary>
   
-  ### Bit Manipulation Problems
+  ### Bit Manipulation Problems - Count: 10
     
   - [ ] Count set bits in an integer
   - [ ] Find the two non-repeating elements in an array of repeating elements

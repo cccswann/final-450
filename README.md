@@ -13,14 +13,14 @@
   ### Array Problems - Count: 36
   
   - [x] Reverse the array - [🔗 Problem](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
-  - [ ] Find the maximum and minimum element in an array
-  - [ ] Find the "Kth" max and min element of an array
-  - [ ] Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
-  - [ ] Move all the negative elements to one side of the array 
-  - [ ] Find the Union and Intersection of the two sorted arrays.
-  - [ ] Write a program to cyclically rotate an array by one.
-  - [ ] <strong>find Largest sum contiguous Subarray [V. IMP]</strong>
-  - [ ] <strong>Minimise the maximum difference between heights [V.IMP]</strong>
+  - [ ] Find the maximum and minimum element in an array - [🔗 Problem](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+  - [ ] Find the "Kth" max and min element of an array - [🔗 Problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+  - [ ] Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo - [🔗 Problem](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+  - [ ] Move all the negative elements to one side of the array - [🔗 Problem](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
+  - [ ] Find the Union and Intersection of the two sorted arrays. - [🔗 Problem](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
+  - [ ] Write a program to cyclically rotate an array by one. - [🔗 Problem](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
+  - [ ] <strong>find Largest sum contiguous Subarray [V. IMP]</strong> - [🔗 Problem](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+  - [ ] <strong>Minimise the maximum difference between heights [V.IMP]</strong> 
   - [ ] Minimum no. of Jumps to reach end of an array
   - [ ] find duplicate in an array of N+1 Integers
   - [ ] Merge 2 sorted arrays without using Extra space.

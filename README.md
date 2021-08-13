@@ -14,7 +14,7 @@
   ### Array Problems - Count: 36
   
   - [x] Reverse the array - [🔗 Problem](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) - [✅ Implementation](array/reverse-array.py)
-  - [ ] Find the maximum and minimum element in an array - [🔗 Problem](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+  - [x] Find the maximum and minimum element in an array - [🔗 Problem](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) - [✅ Implementation](array/max-min-comp.py)
   - [ ] Find the "Kth" max and min element of an array - [🔗 Problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
   - [ ] Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo - [🔗 Problem](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
   - [ ] Move all the negative elements to one side of the array - [🔗 Problem](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
@@ -23,7 +23,7 @@
   - [ ] <strong>find Largest sum contiguous Subarray [V. IMP]</strong> - [🔗 Problem](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
   - [ ] <strong>Minimise the maximum difference between heights [V.IMP]</strong> 
   - [ ] Minimum no. of Jumps to reach end of an array
-  - [ ] find duplicate in an array of N+1 Integers
+  - [x] find duplicate in an array of N+1 Integers - [🔗 Problem](https://leetcode.com/problems/find-the-duplicate-number/) - 
   - [ ] Merge 2 sorted arrays without using Extra space.
   - [ ] <strong>Kadane's Algo [V.V.V.V.V IMP]</strong>
   - [ ] Merge Intervals

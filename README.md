@@ -3,7 +3,8 @@
 > The problem list I am working off of was made by Love Babbar: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 
 > 
 > Reformatted and implemented by me :)
-> 
+
+**Key**
  ✅ - Link to my implementation \
  🔗 - Link to the problem in Geeks for Geeks or Leetcode (Open Link in New Tab)
 

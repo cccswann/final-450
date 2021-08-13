@@ -4,7 +4,7 @@
 > 
 > Reformatted and implemented by me :)
 
-**Key**
+**Key** \
  ✅ - Link to my implementation \
  🔗 - Link to the problem in Geeks for Geeks or Leetcode (Open Link in New Tab)
 

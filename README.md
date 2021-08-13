@@ -23,7 +23,7 @@
   - [ ] <strong>find Largest sum contiguous Subarray [V. IMP]</strong> - [🔗 Problem](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
   - [ ] <strong>Minimise the maximum difference between heights [V.IMP]</strong> 
   - [ ] Minimum no. of Jumps to reach end of an array
-  - [x] find duplicate in an array of N+1 Integers - [🔗 Problem](https://leetcode.com/problems/find-the-duplicate-number/) - 
+  - [x] find duplicate in an array of N+1 Integers - [🔗 Problem](https://leetcode.com/problems/find-the-duplicate-number/) - [✅ Implementation](array/find-dup.py)
   - [ ] Merge 2 sorted arrays without using Extra space.
   - [ ] <strong>Kadane's Algo [V.V.V.V.V IMP]</strong>
   - [ ] Merge Intervals

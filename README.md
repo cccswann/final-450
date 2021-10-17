@@ -26,16 +26,16 @@
   - [x] find duplicate in an array of N+1 Integers - [🔗 Problem](https://leetcode.com/problems/find-the-duplicate-number/) - [✅ Implementation](array/find-dup.py)
   - [ ] Merge 2 sorted arrays without using Extra space.
   - [ ] <strong>Kadane's Algo [V.V.V.V.V IMP]</strong>
-  - [ ] Merge Intervals
+  - [x] Merge Intervals
   - [ ] Next Permutation
   - [ ] Count Inversion
-  - [ ] Best time to buy and Sell stock
+  - [x] Best time to buy and Sell stock
   - [ ] find all pairs on integer array whose sum is equal to given number
   - [ ] find common elements In 3 sorted arrays
   - [ ] Rearrange the array in alternating positive and negative items with O(1) extra space
   - [ ] Find if there is any subarray with sum equal to 0
   - [ ] Find factorial of a large number
-  - [ ] find maximum product subarray 
+  - [x] find maximum product subarray 
   - [ ] Find longest coinsecutive subsequence
   - [ ] Given an array of size n and a number k, fin all elements that appear more than " n/k " times.
   - [ ] Maximum profit by buying and selling a share atmost twice
@@ -77,8 +77,8 @@
   ### String Problems - Count: 43
   
   - [x] Reverse a String - [✅ Implementation](strings/reverse-string.py)
-  - [ ] Check whether a String is Palindrome or not
-  - [ ] Find Duplicate characters in a string
+  - [x] Check whether a String is Palindrome or not
+  - [x] Find Duplicate characters in a string
   - [ ] Why strings are immutable in Java?
   - [ ] Write a Code to check whether one string is a rotation of another
   - [ ] Write a Program to check whether a string is a valid shuffle of two strings or not
